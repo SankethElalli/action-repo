@@ -37,3 +37,21 @@ h2 {
 	font-size: 1.1rem;
 	margin-top: 30px;
 }
+.clear-btn {
+	background: #ff4d4f;
+	color: #fff;
+	border: none;
+	border-radius: 6px;
+	padding: 12px 28px;
+	font-size: 1.08rem;
+	font-weight: 600;
+	margin-bottom: 18px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	cursor: pointer;
+	transition: background 0.2s;
+}
+.clear-btn:hover {
+	background: #d9363e;
+}
